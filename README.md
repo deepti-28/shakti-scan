@@ -1,6 +1,6 @@
 # ShaktiScan
 
-**A women's safety and privacy app that helps detect hidden surveillance devices.**
+**A safety and privacy app that helps detect hidden surveillance devices.**
 
 ShaktiScan scans the Wi-Fi network you are connected to, identifies devices by vendor and open camera ports, scores each device by risk, and shows the result in simple heatmaps and alerts. It also includes an SOS feature for emergencies.
 
