@@ -4,6 +4,14 @@
 
 ShaktiScan scans the Wi-Fi network you are connected to, identifies devices by vendor and open camera ports, scores each device by risk, and shows the result in simple heatmaps and alerts. It also includes an SOS feature for emergencies.
 
+## Screenshots
+
+
+<img width="335" height="719" alt="image" src="https://github.com/user-attachments/assets/1d7075e6-7482-46b2-aba7-c0030547bf45" />
+<img width="321" height="719" alt="image" src="https://github.com/user-attachments/assets/294636df-3cae-4ee1-a8bc-9a8dbdf2cb2b" />
+<img width="332" height="714" alt="image" src="https://github.com/user-attachments/assets/49e7bf2f-c88a-47d9-8b5c-e1a942e11ec6" />
+
+
 ## Features
 
 - **Wi-Fi / network analysis:** discovers devices on the connected network and shows IP, hostname, MAC address and vendor.
@@ -114,12 +122,6 @@ When using a real phone, start the backend with `--host 0.0.0.0` and allow Pytho
 - **`Could not detect Wi-Fi network`:** connect the PC to Wi-Fi (Ethernet is not detected), and check the adapter name contains "Wi-Fi" or "WLAN".
 - **Gradle cache or build errors:** run `flutter clean`, then `flutter pub get`, and try again.
 
-## Screenshots
-
-
-<img width="335" height="719" alt="image" src="https://github.com/user-attachments/assets/1d7075e6-7482-46b2-aba7-c0030547bf45" />
-<img width="321" height="719" alt="image" src="https://github.com/user-attachments/assets/294636df-3cae-4ee1-a8bc-9a8dbdf2cb2b" />
-<img width="332" height="714" alt="image" src="https://github.com/user-attachments/assets/49e7bf2f-c88a-47d9-8b5c-e1a942e11ec6" />
 
 
 
